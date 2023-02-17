@@ -6,9 +6,9 @@ The results were obtained by using mammograms from Breast Cancer Digital Reposit
 
 01_DTL folder includes mass classification results on five-fold cross-validation data using ResNet50, NASNetLarge, and Xception deep transfer learning (DTL) methods. The performance results are for mammogram patch classification.
 
-02_EDTL folder includes mass classification results on five-fold cross-validation data using ensembe of DTL methods. The performance results are for mammogram patch classification.
+02_EDTL folder includes mass classification results on five-fold cross-validation data using ensembe of DTL (EDTL) methods. The performance results are for mammogram patch classification.
 
-
+mass_class_edtl_valid_xval_perlesion_14feb23 includes mass lesion classification results using EDTL. The performance results are for lesions.  
 
 
 References:
