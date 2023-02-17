@@ -4,6 +4,10 @@ The codes in this repository shows the Computer-aided breast cancer mass classif
 
 The results were obtained by using mammograms from Breast Cancer Digital Repository (BCDR) [1-3].  
 
+01_DTL folder includes mass classification results on five-fold cross-validation data using ResNet50, NASNetLarge, and Xception deep transfer learning (DTL) methods.
+02_EDTL folder includes mass classification results on five-fold cross-validation data using ensembe of DTL methods.
+
+
 References:
 
 1) 	(2012) , BCDR - Breast Cancer Digital Repository. [Online]. Available: http://bcdr.edu
