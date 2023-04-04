@@ -1,12 +1,6 @@
 # Mass-classification
 
-The codes in this repository shows the Computer-aided breast cancer mass classification results using deep transfer learning and ensemble of deep transfer learning. 
-
-The results were obtained by using mammograms from Breast Cancer Digital Repository (BCDR) [1-3].  
-
-01_DTL folder includes mass classification results on five-fold cross-validation data using ResNet50, NASNetLarge, and Xception deep transfer learning (DTL) methods. The performance results are for mammogram patch classification.
-
-02_EDTL folder includes mass classification results on five-fold cross-validation data using ensembe of DTL (EDTL) methods. The performance results are for mammogram patch classification.
+The codes for the paper entitled "Breast cancer mass classification using machine learning, binary-coded genetic algorithms, and an ensemble of deep transfer learning" are given in this repositorcy. The performance results were obtained by using mammograms from Breast Cancer Digital Repository (BCDR) [1-3].  01_DTL folder includes mass classification results on five-fold cross-validation data using ResNet50, NASNetLarge, and Xception deep transfer learning (DTL) methods. The performance results are for mammogram patch classification. 02_EDTL folder includes mass classification results on five-fold cross-validation data using ensembe of DTL (EDTL) methods. The performance results are for mammogram patch classification.
 
 mass_class_edtl_valid_xval_perlesion_14feb23 includes mass lesion classification results using EDTL for lesions in the validation data.  
 
