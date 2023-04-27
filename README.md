@@ -10,6 +10,9 @@ Please find the detailed information of our work from the following link. Also p
 
 https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxad046/7140287?utm_source=advanceaccess&utm_campaign=comjnl&utm_medium=email
 
+Citation: Volkan Müjdat Tiryaki, Nedim Tutkun, Breast Cancer Mass Classification Using Machine Learning, Binary-Coded Genetic Algorithms and an Ensemble of Deep Transfer Learning, The Computer Journal, 2023;, bxad046, https://doi.org/10.1093/comjnl/bxad046
+
+
 References:
 
 1) 	(2012) , BCDR - Breast Cancer Digital Repository. [Online]. Available: http://bcdr.edu
