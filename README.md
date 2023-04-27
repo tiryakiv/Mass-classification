@@ -6,6 +6,10 @@ mass_class_edtl_valid_xval_perlesion_14feb23 includes mass lesion classification
 
 mass_class_edtl_valid_test_perlesion_15feb23 includes mass lesion classification results using EDTL for lesions in the test data. 
 
+Please find the detailed information of our work from the following link. Also please cite our work if you find the content useful for your research:
+
+https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxad046/7140287?utm_source=advanceaccess&utm_campaign=comjnl&utm_medium=email
+
 References:
 
 1) 	(2012) , BCDR - Breast Cancer Digital Repository. [Online]. Available: http://bcdr.edu
